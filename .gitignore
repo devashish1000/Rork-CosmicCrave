@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+
+# Expo
+.expo/
+web-build/
+*.tsbuildinfo
+
+# Local secrets
+.env
+.env.*
+!.env.example
+.vercel
