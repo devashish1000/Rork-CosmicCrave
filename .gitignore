@@ -12,3 +12,10 @@ web-build/
 .env.*
 !.env.example
 .vercel
+
+ios/
+android/
+.rork
+rork-eslint.config.js
+core
+.expo
